@@ -1,0 +1,393 @@
+[
+  {
+    "name": "Academic Literacies",
+    "code": "AL 102",
+    "classes": [
+      {
+        "type": "",
+        "sections": [
+          {
+            "crn": "10263",
+            "schedule": [
+              {
+                "day": 0,
+                "place": 0,
+                "start": 1,
+                "duration": 2
+              },
+              {
+                "day": 1,
+                "place": 1,
+                "start": 3,
+                "duration": 1
+              }
+            ],
+            "group": "A1",
+            "instructors": 0
+          },
+          {
+            "crn": "10267",
+            "schedule": [
+              {
+                "day": 0,
+                "place": 2,
+                "start": 1,
+                "duration": 2
+              },
+              {
+                "day": 1,
+                "place": 3,
+                "start": 3,
+                "duration": 1
+              }
+            ],
+            "group": "A2",
+            "instructors": 1
+          },
+          {
+            "crn": "10270",
+            "schedule": [
+              {
+                "day": 0,
+                "place": 4,
+                "start": 1,
+                "duration": 2
+              },
+              {
+                "day": 1,
+                "place": 5,
+                "start": 3,
+                "duration": 1
+              }
+            ],
+            "group": "A3",
+            "instructors": 2
+          },
+          {
+            "crn": "10271",
+            "schedule": [
+              {
+                "day": 0,
+                "place": 6,
+                "start": 1,
+                "duration": 2
+              },
+              {
+                "day": 1,
+                "place": 2,
+                "start": 3,
+                "duration": 1
+              }
+            ],
+            "group": "A4",
+            "instructors": 3
+          },
+          {
+            "crn": "12593",
+            "schedule": [
+              {
+                "day": 0,
+                "place": 7,
+                "start": 1,
+                "duration": 2
+              },
+              {
+                "day": 1,
+                "place": 8,
+                "start": 3,
+                "duration": 1
+              }
+            ],
+            "group": "A5",
+            "instructors": 4
+          },
+          {
+            "crn": "10273",
+            "schedule": [
+              {
+                "day": 2,
+                "place": 9,
+                "start": 0,
+                "duration": 2
+              },
+              {
+                "day": 3,
+                "place": 10,
+                "start": 3,
+                "duration": 1
+              }
+            ],
+            "group": "B1",
+            "instructors": 0
+          },
+          {
+            "crn": "10274",
+            "schedule": [
+              {
+                "day": 2,
+                "place": 2,
+                "start": 0,
+                "duration": 2
+              },
+              {
+                "day": 3,
+                "place": 11,
+                "start": 3,
+                "duration": 1
+              }
+            ],
+            "group": "B2",
+            "instructors": 1
+          },
+          {
+            "crn": "10275",
+            "schedule": [
+              {
+                "day": 2,
+                "place": 7,
+                "start": 0,
+                "duration": 2
+              },
+              {
+                "day": 3,
+                "place": 12,
+                "start": 3,
+                "duration": 1
+              }
+            ],
+            "group": "B3",
+            "instructors": 2
+          },
+          {
+            "crn": "10276",
+            "schedule": [
+              {
+                "day": 2,
+                "place": 4,
+                "start": 0,
+                "duration": 2
+              },
+              {
+                "day": 3,
+                "place": 9,
+                "start": 3,
+                "duration": 1
+              }
+            ],
+            "group": "B4",
+            "instructors": 3
+          },
+          {
+            "crn": "12594",
+            "schedule": [
+              {
+                "day": 2,
+                "place": 3,
+                "start": 0,
+                "duration": 2
+              },
+              {
+                "day": 3,
+                "place": 0,
+                "start": 3,
+                "duration": 1
+              }
+            ],
+            "group": "B5",
+            "instructors": 4
+          },
+          {
+            "crn": "10280",
+            "schedule": [
+              {
+                "day": 1,
+                "place": 1,
+                "start": 4,
+                "duration": 2
+              },
+              {
+                "day": 3,
+                "place": 13,
+                "start": 1,
+                "duration": 1
+              }
+            ],
+            "group": "C1",
+            "instructors": 0
+          },
+          {
+            "crn": "10281",
+            "schedule": [
+              {
+                "day": 1,
+                "place": 3,
+                "start": 4,
+                "duration": 2
+              },
+              {
+                "day": 3,
+                "place": 5,
+                "start": 1,
+                "duration": 1
+              }
+            ],
+            "group": "C2",
+            "instructors": 1
+          },
+          {
+            "crn": "10283",
+            "schedule": [
+              {
+                "day": 1,
+                "place": 5,
+                "start": 4,
+                "duration": 2
+              },
+              {
+                "day": 3,
+                "place": 14,
+                "start": 1,
+                "duration": 1
+              }
+            ],
+            "group": "C3",
+            "instructors": 2
+          },
+          {
+            "crn": "10284",
+            "schedule": [
+              {
+                "day": 1,
+                "place": 4,
+                "start": 4,
+                "duration": 2
+              },
+              {
+                "day": 3,
+                "place": 4,
+                "start": 1,
+                "duration": 1
+              }
+            ],
+            "group": "C4",
+            "instructors": 3
+          },
+          {
+            "crn": "12595",
+            "schedule": [
+              {
+                "day": 1,
+                "place": 8,
+                "start": 4,
+                "duration": 2
+              },
+              {
+                "day": 3,
+                "place": 11,
+                "start": 1,
+                "duration": 1
+              }
+            ],
+            "group": "C5",
+            "instructors": 4
+          },
+          {
+            "crn": "10286",
+            "schedule": [
+              {
+                "day": 2,
+                "place": 7,
+                "start": 4,
+                "duration": 2
+              },
+              {
+                "day": 3,
+                "place": 10,
+                "start": 4,
+                "duration": 1
+              }
+            ],
+            "group": "D1",
+            "instructors": 0
+          },
+          {
+            "crn": "10287",
+            "schedule": [
+              {
+                "day": 2,
+                "place": 2,
+                "start": 4,
+                "duration": 2
+              },
+              {
+                "day": 3,
+                "place": 11,
+                "start": 4,
+                "duration": 1
+              }
+            ],
+            "group": "D2",
+            "instructors": 1
+          },
+          {
+            "crn": "10288",
+            "schedule": [
+              {
+                "day": 2,
+                "place": 15,
+                "start": 4,
+                "duration": 2
+              },
+              {
+                "day": 3,
+                "place": 12,
+                "start": 4,
+                "duration": 1
+              }
+            ],
+            "group": "D3",
+            "instructors": 2
+          },
+          {
+            "crn": "10289",
+            "schedule": [
+              {
+                "day": 2,
+                "place": 16,
+                "start": 4,
+                "duration": 2
+              },
+              {
+                "day": 3,
+                "place": 17,
+                "start": 4,
+                "duration": 1
+              }
+            ],
+            "group": "D4",
+            "instructors": 3
+          },
+          {
+            "crn": "12596",
+            "schedule": [
+              {
+                "day": 2,
+                "place": 3,
+                "start": 4,
+                "duration": 2
+              },
+              {
+                "day": 3,
+                "place": 0,
+                "start": 4,
+                "duration": 1
+              }
+            ],
+            "group": "D5",
+            "instructors": 4
+          }
+        ]
+      }
+    ]
+  }
+]
